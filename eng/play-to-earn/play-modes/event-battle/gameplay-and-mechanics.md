@@ -6,7 +6,7 @@ Users can place predictions on various real-world events on the Play Wallet plat
 
 1. **Choose an event:** Users can browse through the available events and select the one they would like to predict on.
 2. **Select an outcome:** For each event, there are two possible outcomes: the event occurs (Yes) or the event does not occur (No). Users must choose the outcome they believe will happen.
-3. **Prediction amount:** Users can decide the amount they want to predict on their chosen outcome. They can place predictionss in ARB for the Arbitrum network, in another native token for another network.
+3. **Prediction amount:** Users can decide the amount they want to predict on their chosen outcome. They can place predictionss in PLAYW for the Arbitrum network, in another native token for another network.
 4. **Confirm the prediction:** Users must review their prediction details and confirm the prediction. Once confirmed, the prediction is recorded on the blockchain, ensuring transparency and immutability.
 
 ### **Oracle Integration**
