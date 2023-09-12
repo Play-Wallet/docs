@@ -18,7 +18,7 @@
 ### Q4 2023
 
 * [ ] [NFTs airdrop](../nft-token/overview/airdrop.md)
-* [ ] Launch on [Arbitrum network](https://arbitrum.io/)
+* [ ] Launch on [Base network](https://base.org/)
 * [ ] [Stage 1 $PLAYW airdrop](../plaw-token/overview/airdrops.md)
 * [ ] Launch [Walking mode](../play-to-earn/play-modes/walking.md)
 * [ ] Public sale
