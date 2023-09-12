@@ -18,7 +18,7 @@
 ### 2023年第四季度
 
 * [ ] [NFT空投](../nft-token/overview/airdrop.md)
-* [ ] 在[Arbitrum网络](https://arbitrum.io/)上启动
+* [ ] 在[Base Network](https://base.org/)上启动
 * [ ] [第1阶段$PLAYW空投](../plaw-token/overview/airdrops.md)
 * [ ] 启动[步行模式](../play-to-earn/play-modes/walking.md)
 * [ ] 公开销售
@@ -26,7 +26,6 @@
 ### 2024年第一季度
 
 * [ ] 启动[活动战斗模式](../play-to-earn/play-modes/event-battle/)
-* [ ] 在[Camelot DEX](https://camelot.exchange/)上的流动性池
 * [ ] [第2阶段$PLAYW空投](../plaw-token/overview/airdrops.md)
 * [ ] $PLAYW的质押模块
 * [ ] NFT代币的DAO模块
