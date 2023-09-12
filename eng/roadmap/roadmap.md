@@ -26,7 +26,6 @@
 ### Q1 2024
 
 * [ ] Launch [Event Battle mode](../play-to-earn/play-modes/event-battle/)
-* [ ] Liquidity pool on [Camelot DEX](https://camelot.exchange/)
 * [ ] [Stage 2 $PLAYW airdrop](../plaw-token/overview/airdrops.md)
 * [ ] Staking module for $PLAYW
 * [ ] DAO module for NFT tokens
